@@ -1,0 +1,7 @@
+package _50.coding.interview.questions;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
